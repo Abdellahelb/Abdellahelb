@@ -22,18 +22,20 @@ SUBTITLE   = "abdellah@github"
 
 FIELDS = [
     # (key, value, value_color)
-    ("OS",       "Arch Linux (Developer Edition)",  "#c9d1d9"),
+    ("OS",       "Morocco · Tetouan",               "#c9d1d9"),
     ("Host",     "github.com/Abdellahelb",          "#58a6ff"),
-    ("Role",     "Software Engineer",               "#7ee787"),
-    ("Stack",    "Python · TypeScript · React",     "#e3b341"),
-    ("Editor",   "VS Code  ⚡",                     "#c9d1d9"),
-    ("Focus",    "Full-Stack · AI / ML",            "#f78166"),
-    ("Uptime",   "Building in public  🚀",          "#c9d1d9"),
-    ("Coffee",   "████████░░  80%",                 "#a371f7"),
+    ("Role",     "Mechatronics Engineer",            "#7ee787"),
+    ("Edu",      "ENSA Tetouan  Bac+5",             "#c9d1d9"),
+    ("HW Stack", "ESP32 · STM32 · PCB · Altium",    "#e3b341"),
+    ("SW Stack", "MATLAB · C/C++ · Python · IoT",   "#f78166"),
+    ("CAD",      "CATIA · KiCAD · Altium Designer", "#c9d1d9"),
+    ("XP",       "Renault R&D · LEONI Production",  "#a371f7"),
+    ("Focus",    "Embedded · Sensor Fusion · AEB",  "#39d353"),
+    ("Coffee",   "##########  100% (engineer)",     "#febc2e"),
 ]
 
 # Visual settings
-W, H           = 490, 300
+W, H           = 490, 340
 BG             = "#0d1117"
 BORDER         = "#30363d"
 TITLE_COLOR    = "#58a6ff"

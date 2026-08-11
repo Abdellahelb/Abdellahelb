@@ -22,15 +22,15 @@ SUBTITLE   = "abdellah@github"
 
 FIELDS = [
     # (key, value, value_color)
-    ("Host",      "github.com/Abdellahelb",          "#58a6ff"),
-    ("Role",      "Mechatronics Engineer",            "#7ee787"),
-    ("Hardware",  "ESP32 · STM32 · PCB Design",       "#e3b341"),
-    ("Protocols", "CAN · UDS · SPI · I2C · UART",    "#f78166"),
-    ("EDA",       "Altium Designer · KiCAD",          "#c9d1d9"),
-    ("Embedded",  "C/C++ · FreeRTOS · MATLAB",        "#a371f7"),
-    ("CAD",       "CATIA · Sensor Fusion",            "#c9d1d9"),
-    ("XP",        "Renault R&D · LEONI Production",  "#39d353"),
-    ("Coffee",    "████████░░  80%",                 "#a371f7"),
+    ("Host",      "github.com/Abdellahelb",           "#58a6ff"),
+    ("Role",      "Mechatronics Engineer",             "#7ee787"),
+    ("Hardware",  "ESP32 · STM32 · PCB · IoT",         "#e3b341"),
+    ("Protocols", "CAN · UDS · SPI · I2C · UART",     "#f78166"),
+    ("EDA",       "Altium Designer · KiCAD",           "#c9d1d9"),
+    ("Embedded",  "C/C++ · FreeRTOS · MATLAB/Simulink","#a371f7"),
+    ("CAD",       "CATIA · Sensor Fusion",             "#c9d1d9"),
+    ("XP",        "Renault R&D · LEONI Production",   "#39d353"),
+    ("Coffee",    "████████░░  80%",                  "#a371f7"),
 ]
 
 # Visual settings

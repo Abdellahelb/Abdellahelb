@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="490" height="317" viewBox="0 0 490 317"
+     role="img" aria-label="Info card for Abdellah Elberkaoui">
+<style>
+  @keyframes fadein {
+    from { opacity: 0; transform: translateY(6px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  .l0 { animation: fadein 0.45s ease 300ms both; }
+  .l1 { animation: fadein 0.45s ease 420ms both; }
+  .l2 { animation: fadein 0.45s ease 540ms both; }
+  .l3 { animation: fadein 0.45s ease 660ms both; }
+  .l4 { animation: fadein 0.45s ease 780ms both; }
+  .l5 { animation: fadein 0.45s ease 900ms both; }
+  .l6 { animation: fadein 0.45s ease 1020ms both; }
+  .l7 { animation: fadein 0.45s ease 1140ms both; }
+  .l8 { animation: fadein 0.45s ease 1260ms both; }
+  .l9 { animation: fadein 0.45s ease 1380ms both; }
+  .l10 { animation: fadein 0.45s ease 1500ms both; }
+  .l0, .l1, .l2, .l3, .l4, .l5, .l6, .l7, .l8, .l9, .l10 {
+    animation-fill-mode: both;
+  }
+</style>
+  <!-- Background -->
+  <rect width="490" height="317" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <!-- Title bar -->
+  <rect width="490" height="30" rx="8" fill="#161b22"/>
+  <rect y="22" width="490" height="8" fill="#161b22"/>
+  <!-- Traffic lights -->
+  <circle cx="18" cy="15" r="5" fill="#ff5f57"/>
+  <circle cx="34" cy="15" r="5" fill="#febc2e"/>
+  <circle cx="50" cy="15" r="5" fill="#28c840"/>
+  <!-- Window title -->
+  <text x="245" y="20" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="11"
+        fill="#8b949e" text-anchor="middle">neofetch — abdellah@github</text>
+  <text x="20" y="55" class="l0" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="14" font-weight="bold" fill="#58a6ff">Abdellah Elberkaoui</text>
+  <text x="20" y="77" class="l1" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="12" fill="#8b949e">abdellah@github</text>
+  <text x="20" y="94" class="l2" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#21262d">──────────────────────────────────────</text>
+  <g class="l3"><text x="20" y="116" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">        OS:</text><text x="130" y="116" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#c9d1d9">Arch Linux (Developer Edition)</text></g>
+  <g class="l4"><text x="20" y="138" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">      Host:</text><text x="130" y="138" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#58a6ff">github.com/Abdellahelb</text></g>
+  <g class="l5"><text x="20" y="160" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">      Role:</text><text x="130" y="160" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#7ee787">Software Engineer</text></g>
+  <g class="l6"><text x="20" y="182" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">     Stack:</text><text x="130" y="182" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#e3b341">Python · TypeScript · React</text></g>
+  <g class="l7"><text x="20" y="204" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">    Editor:</text><text x="130" y="204" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#c9d1d9">VS Code  ⚡</text></g>
+  <g class="l8"><text x="20" y="226" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">     Focus:</text><text x="130" y="226" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#f78166">Full-Stack · AI / ML</text></g>
+  <g class="l9"><text x="20" y="248" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">    Uptime:</text><text x="130" y="248" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#c9d1d9">Building in public  🚀</text></g>
+  <g class="l10"><text x="20" y="270" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">    Coffee:</text><text x="130" y="270" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#a371f7">████████░░  80%</text></g>
+  <rect x="20" y="300" class="l11" width="14" height="14" rx="3" fill="#ff5f57"/>
+  <rect x="40" y="300" class="l11" width="14" height="14" rx="3" fill="#febc2e"/>
+  <rect x="60" y="300" class="l11" width="14" height="14" rx="3" fill="#28c840"/>
+  <rect x="80" y="300" class="l11" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="100" y="300" class="l11" width="14" height="14" rx="3" fill="#a371f7"/>
+  <rect x="120" y="300" class="l11" width="14" height="14" rx="3" fill="#e3b341"/>
+  <rect x="140" y="300" class="l11" width="14" height="14" rx="3" fill="#7ee787"/>
+  <rect x="160" y="300" class="l11" width="14" height="14" rx="3" fill="#f78166"/>
+</svg>

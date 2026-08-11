@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+
+# Generated intermediate files (keep SVG outputs, skip raw prep)
+data/source-prepped.png
+
+# OS
+.DS_Store
+Thumbs.db

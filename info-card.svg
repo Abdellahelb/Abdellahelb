@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="490" height="361" viewBox="0 0 490 361"
+     width="490" height="340" viewBox="0 0 490 340"
      role="img" aria-label="Info card for Abdellah Elberkaoui">
 <style>
   @keyframes fadein {
@@ -18,13 +18,12 @@
   .l9 { animation: fadein 0.45s ease 1380ms both; }
   .l10 { animation: fadein 0.45s ease 1500ms both; }
   .l11 { animation: fadein 0.45s ease 1620ms both; }
-  .l12 { animation: fadein 0.45s ease 1740ms both; }
   .l0, .l1, .l2, .l3, .l4, .l5, .l6, .l7, .l8, .l9, .l10 {
     animation-fill-mode: both;
   }
 </style>
   <!-- Background -->
-  <rect width="490" height="361" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect width="490" height="340" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
   <!-- Title bar -->
   <rect width="490" height="30" rx="8" fill="#161b22"/>
   <rect y="22" width="490" height="8" fill="#161b22"/>
@@ -38,22 +37,21 @@
   <text x="20" y="55" class="l0" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="14" font-weight="bold" fill="#58a6ff">Abdellah Elberkaoui</text>
   <text x="20" y="77" class="l1" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="12" fill="#8b949e">abdellah@github</text>
   <text x="20" y="94" class="l2" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#21262d">──────────────────────────────────────</text>
-  <g class="l3"><text x="20" y="116" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">        OS:</text><text x="130" y="116" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#c9d1d9">Morocco · Tetouan</text></g>
-  <g class="l4"><text x="20" y="138" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">      Host:</text><text x="130" y="138" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#58a6ff">github.com/Abdellahelb</text></g>
-  <g class="l5"><text x="20" y="160" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">      Role:</text><text x="130" y="160" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#7ee787">Mechatronics Engineer</text></g>
-  <g class="l6"><text x="20" y="182" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">       Edu:</text><text x="130" y="182" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#c9d1d9">ENSA Tetouan  Bac+5</text></g>
-  <g class="l7"><text x="20" y="204" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">  HW Stack:</text><text x="130" y="204" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#e3b341">ESP32 · STM32 · PCB · Altium</text></g>
-  <g class="l8"><text x="20" y="226" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">  SW Stack:</text><text x="130" y="226" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#f78166">MATLAB · C/C++ · Python · IoT</text></g>
-  <g class="l9"><text x="20" y="248" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">       CAD:</text><text x="130" y="248" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#c9d1d9">CATIA · KiCAD · Altium Designer</text></g>
-  <g class="l10"><text x="20" y="270" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">        XP:</text><text x="130" y="270" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#a371f7">Renault R&amp;D · LEONI Production</text></g>
-  <g class="l11"><text x="20" y="292" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">     Focus:</text><text x="130" y="292" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#39d353">Embedded · Sensor Fusion · AEB</text></g>
-  <g class="l12"><text x="20" y="314" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">    Coffee:</text><text x="130" y="314" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#febc2e">##########  100% (engineer)</text></g>
-  <rect x="20" y="344" class="l13" width="14" height="14" rx="3" fill="#ff5f57"/>
-  <rect x="40" y="344" class="l13" width="14" height="14" rx="3" fill="#febc2e"/>
-  <rect x="60" y="344" class="l13" width="14" height="14" rx="3" fill="#28c840"/>
-  <rect x="80" y="344" class="l13" width="14" height="14" rx="3" fill="#58a6ff"/>
-  <rect x="100" y="344" class="l13" width="14" height="14" rx="3" fill="#a371f7"/>
-  <rect x="120" y="344" class="l13" width="14" height="14" rx="3" fill="#e3b341"/>
-  <rect x="140" y="344" class="l13" width="14" height="14" rx="3" fill="#7ee787"/>
-  <rect x="160" y="344" class="l13" width="14" height="14" rx="3" fill="#f78166"/>
+  <g class="l3"><text x="20" y="116" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">      Host:</text><text x="130" y="116" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#58a6ff">github.com/Abdellahelb</text></g>
+  <g class="l4"><text x="20" y="138" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">      Role:</text><text x="130" y="138" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#7ee787">Mechatronics Engineer</text></g>
+  <g class="l5"><text x="20" y="160" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">  Hardware:</text><text x="130" y="160" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#e3b341">ESP32 · STM32 · PCB Design</text></g>
+  <g class="l6"><text x="20" y="182" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e"> Protocols:</text><text x="130" y="182" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#f78166">CAN · UDS · SPI · I2C · UART</text></g>
+  <g class="l7"><text x="20" y="204" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">       EDA:</text><text x="130" y="204" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#c9d1d9">Altium Designer · KiCAD</text></g>
+  <g class="l8"><text x="20" y="226" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">  Embedded:</text><text x="130" y="226" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#a371f7">C/C++ · FreeRTOS · MATLAB</text></g>
+  <g class="l9"><text x="20" y="248" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">       CAD:</text><text x="130" y="248" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#c9d1d9">CATIA · Sensor Fusion</text></g>
+  <g class="l10"><text x="20" y="270" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">        XP:</text><text x="130" y="270" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#39d353">Renault R&amp;D · LEONI Production</text></g>
+  <g class="l11"><text x="20" y="292" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#8b949e">    Coffee:</text><text x="130" y="292" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" fill="#a371f7">████████░░  80%</text></g>
+  <rect x="20" y="322" class="l12" width="14" height="14" rx="3" fill="#ff5f57"/>
+  <rect x="40" y="322" class="l12" width="14" height="14" rx="3" fill="#febc2e"/>
+  <rect x="60" y="322" class="l12" width="14" height="14" rx="3" fill="#28c840"/>
+  <rect x="80" y="322" class="l12" width="14" height="14" rx="3" fill="#58a6ff"/>
+  <rect x="100" y="322" class="l12" width="14" height="14" rx="3" fill="#a371f7"/>
+  <rect x="120" y="322" class="l12" width="14" height="14" rx="3" fill="#e3b341"/>
+  <rect x="140" y="322" class="l12" width="14" height="14" rx="3" fill="#7ee787"/>
+  <rect x="160" y="322" class="l12" width="14" height="14" rx="3" fill="#f78166"/>
 </svg>

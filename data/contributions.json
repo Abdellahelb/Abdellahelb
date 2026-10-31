@@ -1,7 +1,7 @@
 {
   "username": "Abdellahelb",
-  "fetched_at": "2026-10-30T12:55:28Z",
-  "total": 100,
+  "fetched_at": "2026-10-31T12:27:44Z",
+  "total": 101,
   "days": [
     {
       "date": "2025-10-26",
@@ -1850,13 +1850,18 @@
     },
     {
       "date": "2026-10-30",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-10-31",
       "count": 0,
       "level": 0
     }
   ],
   "stats": {
     "current_streak": 0,
-    "longest_streak": 80,
+    "longest_streak": 81,
     "best_day": {
       "date": "2025-11-19",
       "count": 12,
@@ -1875,7 +1880,7 @@
       "2026-07": 0,
       "2026-08": 27,
       "2026-09": 30,
-      "2026-10": 29
+      "2026-10": 30
     }
   }
 }

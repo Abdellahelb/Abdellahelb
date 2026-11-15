@@ -1,43 +1,8 @@
 {
   "username": "Abdellahelb",
-  "fetched_at": "2026-11-14T13:30:20Z",
-  "total": 115,
+  "fetched_at": "2026-11-15T13:55:50Z",
+  "total": 116,
   "days": [
-    {
-      "date": "2025-11-09",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-10",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-11",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-12",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-13",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-14",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-15",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-11-16",
       "count": 0,
@@ -1855,13 +1820,18 @@
     },
     {
       "date": "2026-11-14",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-11-15",
       "count": 0,
       "level": 0
     }
   ],
   "stats": {
     "current_streak": 0,
-    "longest_streak": 95,
+    "longest_streak": 96,
     "best_day": {
       "date": "2025-11-19",
       "count": 12,
@@ -1880,7 +1850,7 @@
       "2026-08": 27,
       "2026-09": 30,
       "2026-10": 31,
-      "2026-11": 13
+      "2026-11": 14
     }
   }
 }
